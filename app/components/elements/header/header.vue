@@ -4,8 +4,9 @@
 			<div class="heading-page-presentation">
 				<div class="logo">
 					<img
-						src="../../../assets/img/capudculotte.png"
+						src="../../../assets/img/capudculotte copie.png"
 						alt="logo-capudculotte"
+						class="capudculotte"
 					/>
 				</div>
 				<div class="title">CAPUD'CULOTTE</div>
