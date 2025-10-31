@@ -28,8 +28,8 @@ export default {
 		const buttonList = [
 			{ text: "Accueil", interact: "redirect", redirectUrl: "/" },
 			{ text: "Collections", interact: "redirect", redirectUrl: "/collection" },
-			{ text: "Tissus", interact: "redirect", redirectUrl: "/" },
-			{ text: "Contacts", interact: "redirect", redirecturl: "/" },
+			{ text: "Tissus", interact: "redirect", redirectUrl: "/tissus" },
+			{ text: "Contacts", interact: "redirect", redirectUrl: "/contacts" },
 		];
 		return {
 			buttonList,
