@@ -27,7 +27,7 @@ export default {
 	data() {
 		const buttonList = [
 			{ text: "Accueil", interact: "redirect", redirectUrl: "/" },
-			{ text: "Collections", interact: "redirect", redirectUrl: "/" },
+			{ text: "Collections", interact: "redirect", redirectUrl: "/collection" },
 			{ text: "Tissus", interact: "redirect", redirectUrl: "/" },
 			{ text: "Contacts", interact: "redirect", redirecturl: "/" },
 		];

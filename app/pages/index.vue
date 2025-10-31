@@ -6,3 +6,4 @@
 
 <script></script>
 
+<style lang="scss" src="../assets/scss/pages/_home.scss" />

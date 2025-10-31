@@ -1,10 +1,10 @@
 <template>
-	<div class="button-menu-heading" @click="handleRedirect">{{ text }}</div>
+	<div class="menu-cta" @click="handleRedirect">{{ text }}</div>
 </template>
 
 <script lang="js">
 export default {
-  name: "button-menu",
+  name: "menu-cta",
   props: {
     text: {
       type: String,
